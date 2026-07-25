@@ -5,7 +5,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   // Global State
-  const WHATSAPP_NUMBER = '254746714789';
+  const WHATSAPP_NUMBER = '254719758280';
   let activeCategory = 'all';
   let orderTray = loadTrayState();
 

@@ -3,7 +3,7 @@
 An upscale, mobile-first luxury fragrance showcase website built for **Aria Noire Scents**, a niche perfumery based in Lavington, Nairobi, Kenya.
 
 - **Brand Tagline**: *"Elegance In Every Note"*
-- **Order Phone**: `+254 746 714 789`
+- **Order Phone**: `+254 719 758 280`
 - **Fulfillment**: Home Delivery & Pickup Mtaani Collection
 
 ---
@@ -15,7 +15,7 @@ An upscale, mobile-first luxury fragrance showcase website built for **Aria Noir
 3. **WhatsApp Order Selection Tray (Cart)**:
    - Tap "+ Add to Selection" to accumulate fragrances into a slide-up bottom sheet drawer.
    - Adjust quantities or remove items.
-   - Tap **"Send Order via WhatsApp"** to generate a single pre-filled message sent directly to `+254 746 714 789`.
+   - Tap **"Send Order via WhatsApp"** to generate a single pre-filled message sent directly to `+254 719 758 280`.
    - Tap direct WhatsApp icon on any product card for instant single-product ordering.
 4. **Zero Backend Required**: Static HTML5/CSS3/JavaScript — fast loading, no database maintenance, no payment gateways.
 
@@ -74,11 +74,11 @@ If you ever change your official WhatsApp business number:
 
 1. Open **`script.js`** and locate line 7:
    ```js
-   const WHATSAPP_NUMBER = '254746714789';
+   const WHATSAPP_NUMBER = '254719758280';
    ```
-   Replace `'254746714789'` with your new number including the country code (without leading `+` or spaces).
+   Replace `'254719758280'` with your new number including the country code (without leading `+` or spaces).
 
-2. Open **`index.html`** and search for `wa.me/254746714789`. Update the link URLs and displayed text to match your new number.
+2. Open **`index.html`** and search for `wa.me/254719758280`. Update the link URLs and displayed text to match your new number.
 
 ---
 
